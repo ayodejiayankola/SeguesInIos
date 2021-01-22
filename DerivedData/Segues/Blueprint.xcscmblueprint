@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2757750B0B1BA8C433DE8806781EE70CEA1BE3A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2757750B0B1BA8C433DE8806781EE70CEA1BE3A8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7D1C1E4-DE42-4556-AAFA-B04B96B109DB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2757750B0B1BA8C433DE8806781EE70CEA1BE3A8" : "Segues\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Segues",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Segues.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ayodejiayankola\/SeguesInIos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2757750B0B1BA8C433DE8806781EE70CEA1BE3A8"
+    }
+  ]
+}
